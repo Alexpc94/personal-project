@@ -1,2 +1,3 @@
-# HTML CSS AND JAVASCRIPT project 💕
+# HTML CSS AND JAVASCRIPT PROJECT
 ### By alex 😱
+ <!-- 💕 -->
